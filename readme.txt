@@ -1,4 +1,4 @@
-=== Performance Check ===
+﻿=== Performance Check ===
 Contributors: itlboy
 Tags: performance, google speed insight, better speed, simple
 Requires at least: 1.0
@@ -24,7 +24,7 @@ Each suggestion is rated with a priority indicator to indicate its importance:
 
 
 == Installation ==
-Install and active
+Upload the Performance Check plugin to your blog, Activate it.
 
 == Screenshots ==
 1. Admin bar overview
