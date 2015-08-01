@@ -27,10 +27,10 @@ Each suggestion is rated with a priority indicator to indicate its importance:
 Install and active
 
 == Screenshots ==
-1. https://blog-itlboy.rhcloud.com/wp-content/uploads/2015/07/speed-insight.png
-2. https://blog-itlboy.rhcloud.com/wp-content/uploads/2015/07/si.png
-3. https://blog-itlboy.rhcloud.com/wp-content/uploads/2015/08/screenshot2.png
-4. https://blog-itlboy.rhcloud.com/wp-content/uploads/2015/08/screenshot.png
+1. screenshot/s1.png
+2. screenshot/s2.png
+3. screenshot/s3.png
+4. screenshot/s4.png
 
 == Changelog ==
 1.0 First version
