@@ -27,10 +27,10 @@ Each suggestion is rated with a priority indicator to indicate its importance:
 Install and active
 
 == Screenshots ==
-1. screenshot/s1.png
-2. screenshot/s2.png
-3. screenshot/s3.png
-4. screenshot/s4.png
+1. Admin bar overview
+2. Admin bar detail
+3. Google speed insight for desktop
+4. Google speed insight for mobile
 
 == Changelog ==
 1.0 First version
