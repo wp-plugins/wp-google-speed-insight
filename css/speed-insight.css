@@ -1,0 +1,20 @@
+/* 
+    Created on : Jul 30, 2015, 12:15:36 AM
+    Author     : KienNT
+*/
+
+.si-stats.green a  {
+    color: green !important;
+}
+.si-stats.orange a {
+    color: orange !important;
+}
+.si-stats.red a {
+    color: red !important;
+}
+.si-stats a {
+    font-weight: bold !important;
+}
+.si-stats:hover {
+    cursor: pointer;
+}
