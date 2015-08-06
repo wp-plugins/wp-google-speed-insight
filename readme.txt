@@ -20,7 +20,7 @@ time to full page load: Elapsed time from the moment a user requests a new page 
 However, since the performance of a network connection varies considerably, PageSpeed Insights only considers the network-independent aspects of page performance: the server configuration, the HTML structure of a page, and its use of external resources such as images, JavaScript, and CSS. Implementing the suggestions should improve the relative performance of the page. However, the absolute performance of the page will still be dependent upon a user’s network connection.
 
 Each suggestion is rated with a priority indicator to indicate its importance: 
-
+ 
 
 
 == Installation ==
