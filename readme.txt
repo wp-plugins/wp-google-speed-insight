@@ -37,7 +37,9 @@ Upload the Performance Check plugin to your blog, Activate it.
 == Changelog ==
 
 = 1.1 =
+
 Add admin link to goolge check
 
 = 1.0 =
+
 Init version
