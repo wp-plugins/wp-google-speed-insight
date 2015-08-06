@@ -8,8 +8,8 @@ Stable tag: 1.1
 Check load speed for your website
 
 == Description ==
-With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly.
-Page Speed Insights measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent.
+With Performance Check you can identify ways to make your site faster and more mobile-friendly.
+Performance Check measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent.
 
 The PageSpeed Score ranges from 0 to 100 points. A higher score is better and a score of 85 or above indicates that the page is performing well. Please note that PageSpeed Insights is being continually improved and so the score will change as we add new rules or improve our analysis.
 
