@@ -3,7 +3,7 @@ Contributors: itlboy
 Tags: performance, google speed insight, better speed, simple
 Requires at least: 1.0
 Tested up to: 4.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 Check load speed for your website
 
@@ -34,3 +34,5 @@ Upload the Performance Check plugin to your blog, Activate it.
 
 == Changelog ==
 1.0 First version
+
+1.1 Update google pagespeed link
