@@ -1,12 +1,9 @@
 <?php
-
-defined('ABSPATH') or die('No script kiddies please!');
-//opcache_reset();
 /*
-  Plugin Name: WP Google Speed Insight
+  Plugin Name: Performance Check
   Plugin URI: http://blog-itlboy.rhcloud.com
-  Description: Speed insight for WP
-  Version: 1.0
+  Description: Performance check for all wordpress site
+  Version: 1.1
   Author: Itlboy
   Author URI: http://blog-itlboy.rhcloud.com
   License: GPL2
@@ -26,6 +23,9 @@ defined('ABSPATH') or die('No script kiddies please!');
   You should have received a copy of the GNU General Public License
   along with this program; if not, write to the Free Software
  */
+
+defined('ABSPATH') or die('No script kiddies please!');
+//opcache_reset();
 //ini_set('display_errors', 1);
 //ini_set('display_startup_errors', 1);
 //error_reporting(-1);
