@@ -35,7 +35,6 @@ Upload the Performance Check plugin to your blog, Activate it.
 6. Google speed insight for mobile (Vietnamese - Tiếng Việt)
 
 == Changelog ==
-
 = 1.1 =
 
 Add admin link to goolge check
