@@ -31,8 +31,9 @@ Upload the Performance Check plugin to your blog, Activate it.
 2. Admin bar detail
 3. Google speed insight for desktop
 4. Google speed insight for mobile
+5. Google speed insight for desktop (Vietnamese - Tiếng Việt)
+6. Google speed insight for mobile (Vietnamese - Tiếng Việt)
 
 == Changelog ==
 1.0 First version
-
 1.1 Update google pagespeed link
