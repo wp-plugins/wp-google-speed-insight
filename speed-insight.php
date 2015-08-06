@@ -2,7 +2,8 @@
 /*
   Plugin Name: Performance Check
   Plugin URI: http://blog-itlboy.rhcloud.com
-  Description: Performance check for all wordpress site
+  Description: With PageSpeed Insights you can identify ways to make your site faster and more mobile-friendly.
+Page Speed Insights measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent.
   Version: 1.1
   Author: Itlboy
   Author URI: http://blog-itlboy.rhcloud.com
