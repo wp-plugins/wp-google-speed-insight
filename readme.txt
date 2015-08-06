@@ -1,4 +1,4 @@
-﻿﻿=== Performance Check ===
+﻿=== Performance Check ===
 Contributors: itlboy
 Tags: performance, google speed insight, better speed, simple
 Requires at least: 1.0
@@ -35,11 +35,5 @@ Upload the Performance Check plugin to your blog, Activate it.
 6. Google speed insight for mobile (Vietnamese - Tiếng Việt)
 
 == Changelog ==
-
-= 1.1 =
-
-Add admin link to goolge check
-
-= 1.0 =
-
-Init version
+1.0 First version
+1.1 Update google pagespeed link
